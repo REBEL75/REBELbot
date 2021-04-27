@@ -23,14 +23,6 @@
 
 <h2 align="center"> <a href="https://github.com/REBEL725/REBELBOT">⚡ 𝚃𝙷𝙴 REBELBOT ⚡</a></h2>
 
-</details>
-
-<details>
-  <summary> <h4>Credits 🏅</h4> </summary>
-• [JaaduBot](https://github.com/Amberyt/JaaduBot)
-• [Uniborg](https://github.com/spechide/uniborg)
-• [Hêllẞø†](https://github.com/thevaders/vader)
-</details>
 <details>
   <summary> <h4>Official Supports ✅</h4> </summary>
 ```
@@ -78,7 +70,7 @@ notifications in Update Channel.
   <summary> <h4>• LICENSE •</h4> </summary>
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 REBEL
 
 Poject [REBELBOT](https://github.com/REBEL725/REBELBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
