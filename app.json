@@ -1,7 +1,7 @@
 {
-  "name": "𝕄𝔸𝔽𝕀𝔸 𝕌𝕊𝔼ℝ𝔹𝕆𝕋",
-  "description": "The Mafia Userbot made by @H1M4N5HU0P special thanks to respective HellBot owner @Kraken_The_BadASS. Join for updates related info @MAFIABOT_SUPPORT",
-  "logo": "https://telegra.ph/file/b61486075c6ef73dd0d12.jpg ",
+  "name": "REBELBOT",
+  "description": "The REBEL Userbot made by @REBEL_IS_OP. Join for updates related info @REBELBOT_SUPPORT",
+  "logo": "https://telegra.ph/file/33aa69184f2637246ec76.jpg ",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
+  "repository": https://github.com/REBEL725/REBELBOT/",
+  "website": "https://github.com/REBEL725/REBELBOT/",
   "success_url": "https://t.me/MAFIABOT_SUPPORT",
   "env": {
     "ENV": {
@@ -23,23 +23,23 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MAFIA_USERBOT",
+      "description": "Fill your Full name or Username like @REBEL. By default it is REBEL User",
+      "value": " ",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈MAFIA USERBOT IS ALIVE😈",
+      "description": "Set Custom Alive Message When entering .rebel Command.",
+      "value": " ",
       "required": false
     },
     "ALIVE_PIC": {
-      "description": "Put here any telegraph media link for alive pic in .mafia command.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "description": "Put here any telegraph media link for alive pic in .rebel command.",
+      "value":  " ",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIA USERBOT😈",
+      "value": " ",
       "required": false
     },
     "PMPERMIT_PIC": {
